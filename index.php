@@ -10,7 +10,7 @@
           <img src="images/springsource.png">
         </td>
         <td>
-          <h1>Sample "Hello, World" Application</h1>
+          <h1>Lets change that</h1>
         </td>
       </tr>
     </table>
